@@ -1,42 +1,97 @@
-# Olá, eu sou o Filipe Assis 👋 
+<h1 align="center">Filipe Assis 👋</h1>
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação!<br>
-Este é o meu espaço no GitHub, onde transformo ideias e criatividade em código.
+<p align="center">
+  💻 Desenvolvedor Front-End focado em performance, SEO e conversão  
+  <br>
+  🚀 Criando sites modernos que geram resultados reais
+</p>
 
----
-
-### 🤝 Conecte-se comigo:
-
-<p align="left">
-<a href="https://www.instagram.com/assisfilipee/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.linkedin.com/in/assisfilipee/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:lfilipeassis@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<p align="center">
+  <a href="https://filipeassis.dev">
+    <img src="https://img.shields.io/badge/🌐 Website-000?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/assissfilipee">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:filipe@filipeassis.dev">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas:
+## 🧠 Sobre mim
 
-<div inline>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
+Sou desenvolvedor focado em criar **experiências web rápidas, modernas e orientadas a conversão**.
+
+Hoje trabalho principalmente com:
+
+✔ Landing pages de alta performance  
+✔ Sites institucionais profissionais  
+✔ SEO técnico e otimização de velocidade  
+✔ Interfaces modernas e responsivas  
+
+🎯 Objetivo: ajudar empresas a terem presença digital profissional e gerar clientes através do site.
 
 ---
 
-### 📊 Minhas Estatísticas:
+## 🛠️ Tech Stack
 
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=assisfilipee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assisfilipee&layout=compact&theme=tokyonight"/>
-</div>
+### 🎨 Front-end
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+
+### 🧪 Estudando
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+---
+
+## 🚀 O que eu faço
+
+💼 Criação de sites profissionais  
+📈 Landing pages focadas em conversão  
+⚡ Otimização de performance (PageSpeed)  
+🔎 SEO técnico  
+📱 Sites 100% responsivos  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=assissfilipee&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assissfilipee&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=assissfilipee&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Vamos conversar?
+
+Se você quer um site profissional ou precisa melhorar seu projeto 👇  
+
+<p align="center">
+  <a href="mailto:filipeassis@gmail.com">
+    <img src="https://img.shields.io/badge/Entrar%20em%20contato-000?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Se curtiu meu trabalho, não esquece de dar uma estrela nos repositórios!
+</p>
